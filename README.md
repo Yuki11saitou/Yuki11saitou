@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
