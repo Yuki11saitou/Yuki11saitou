@@ -29,6 +29,8 @@
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Yuki11saitou&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki11saitou&theme=vue-dark&layout=compact" />
 </div>
+<!-- 'github-profile-trophy'を利用 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yuki11saitou)](https://github.com/Yuki11saitou/github-profile-trophy)
 
 
 <!--
