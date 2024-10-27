@@ -1,3 +1,4 @@
+<img align="center" width="500" src="./image/hello-world.png" alt="hello-world" />
 
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
