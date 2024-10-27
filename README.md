@@ -1,4 +1,5 @@
-<img align="center" width="500" src="./image/hello-world.png" alt="hello-world" />
+<!-- 0. アイキャッチ画像を挿入 -->
+<a href="https://gyazo.com/ab2b2c554af1fb1e6dfef4a89edca83b"><img src="https://i.gyazo.com/ab2b2c554af1fb1e6dfef4a89edca83b.jpg" alt="Image from Gyazo" width="1000"/></a>
 
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
