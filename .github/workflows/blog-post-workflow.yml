@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://qiita.com/@yuki31100725/feed"
+          max_post_count: 5  # 表示したい投稿数を指定
