@@ -58,5 +58,6 @@ Here are some ideas to get you started:
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [【Rails】gem &#39;kaminari&#39; と Tailwind CSS + daisyUI でページネーションをカスタマイズする](https://qiita.com/yuki31100725/items/f8f3ddeaa990de342d11)
 <!-- BLOG-POST-LIST:END -->
 
