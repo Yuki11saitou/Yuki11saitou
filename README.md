@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ## ✍️ Articles
 [**Qiita**](https://qiita.com/yuki31100725)
 
-### Blogs posts
+### Latest posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
