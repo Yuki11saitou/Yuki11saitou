@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [【個人開発】勉強場所の検索サービスを作成しました ✍️](https://qiita.com/yuki31100725/items/9cf603f9ac08b850c2d7)
 - [【Rails】gem &#39;kaminari&#39; と Tailwind CSS + daisyUI でページネーションをカスタマイズする](https://qiita.com/yuki31100725/items/f8f3ddeaa990de342d11)
 <!-- BLOG-POST-LIST:END -->
 
