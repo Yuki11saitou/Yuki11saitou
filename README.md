@@ -59,9 +59,5 @@ Here are some ideas to get you started:
 ## ✍️ Articles
 [**Qiita**](https://qiita.com/yuki31100725)
 
-### Latest posts
-<!-- BLOG-POST-LIST:START -->
-- [【個人開発】家で勉強できない私が「勉強場所の検索サービス」を作成しました ✍️](https://qiita.com/yuki31100725/items/9cf603f9ac08b850c2d7)
-- [【Rails】gem &#39;kaminari&#39; と Tailwind CSS + daisyUI でページネーションをカスタマイズする](https://qiita.com/yuki31100725/items/f8f3ddeaa990de342d11)
-<!-- BLOG-POST-LIST:END -->
+
 
